@@ -1,0 +1,28 @@
+.bg-container{
+    padding:20px;
+    background-color:aquamarine;
+    background-size:cover;
+    min-height:100vh;
+    
+}
+.game-heading{
+    font-size:90px;
+    color:rgb(250, 0, 0);
+    font-family:cursive; 
+    margin:auto;
+}
+
+.warning-msg{
+    font-size:20px;
+}
+.my-form{
+    background-color:white;
+    border-radius:10px;
+    padding:20px
+}
+h1{
+    color:rgb(0, 253, 84);
+}
+p{
+    padding-top:10px;
+}
